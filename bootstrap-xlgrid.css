@@ -571,7 +571,7 @@
     display: table-cell !important;
   }
 }
-@media (min-width: 1920px) and (max-width: 1559px) {
+@media (min-width: 1920px) and (max-width: 2559px) {
   .visible-xxl {
     display: block !important;
   }
